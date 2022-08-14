@@ -9,4 +9,4 @@ Prusa Rocket Team Model rocket avionics system for Teknofest<br/>
 ![PCB İmages](https://github.com/Kenanbatur23/ModeL-Rocket-PCB-Design/blob/main/images/20220223_055617.jpg)<br/>
 <br/>
 <br/>
-[Schematic](https://github.com/Kenanbatur23/ModeL-Rocket-PCB-Design/blob/main/images/Schematic_2022%20prototip%20kart%C4%B1_2022-08-15.png)
+![Schematic](https://github.com/Kenanbatur23/ModeL-Rocket-PCB-Design/blob/main/images/Schematic_2022%20prototip%20kart%C4%B1_2022-08-15.png)
